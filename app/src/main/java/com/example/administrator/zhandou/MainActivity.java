@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         initView();
         Log.i("TAG", "onCreate:--------222222222222 ");
+        Log.i("TAg", "onCreate: ddfsfdfdfdsgggfdf");
     }
 
     private void initView() {
